@@ -15,7 +15,6 @@ This project covers:
 - JavaScript (ES6+)
 - npm
 - nodemon
-- Build Tool - Node.js
 ## How to Run
 
 ```bash
